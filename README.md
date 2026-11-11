@@ -9,7 +9,7 @@ Greenfoot ortamında geliştirilen, temel radar tespit mekanizmalarını ve elek
 | Üye | Rol / Görev Alanı | İletişim / GitHub |
 | :--- | :--- | :--- |
 | **Abdülkadir Aydıngöç** (Takım Lideri) | Simülasyon Mimarisi & Radar Modülü | [@kadir3106](https://github.com/kadir3106) |
-| **Turan Kerim** | Radar Uzmanı / Geliştirici | [@turankerim1903-rgb](https://github.com/turankerim1903-rgb) |
+| **Turan Kerim** | Greenfoot & Simülasyon Geliştirici | [@turankerim1903-rgb](https://github.com/turankerim1903-rgb) |
 | **Proje Üyesi 3** | Greenfoot Senaryo & Arayüz Geliştirme | [@kullanici-adi](https://github.com) |
 | **Proje Üyesi 4** | Elektronik Harp (Jammer/Aldatma) Mekanikleri | [@kullanici-adi](https://github.com) |
 
@@ -67,4 +67,5 @@ basit-elektronik-harp-simulasyonu/
    git clone https://github.com/kadir3106/basit-elektronik-harp-simulasyonu.git
    \\\
 2. Greenfoot uygulamasını açın -> **Scenario** -> **Open** seçeneğinden src klasörünü yükleyin.
+
 

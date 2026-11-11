@@ -14,7 +14,7 @@
 ### 1. Bu İki Haftada Yapılan Çalışmalar:
 - [x] Tüm ekip üyeleri GitHub hesaplarını açtı ve takım deposuna dahil edildi.
 - [x] Git iş akışı (dal açma, commit kuralları, pull request) üzerinde pratik yapıldı.
-- [x] Radar çalışma prensipleri ve temel Elektronik Harp (karıştırma, aldatma) kavramları araştırıldı ve dökümante edildi.
+- [x] Radar çalışma prensipleri ve temel Elektronik Harp (karıştırma, aldatma) kavramları araştırıldı; Skolnik (Bölüm 1) ve Adamy (Bölüm 4) kaynakları incelenerek dökümante edildi.
 - [x] Projenin Greenfoot senaryo mimarisi ve klasör şablonu oluşturuldu.
 
 ### 2. Karşılaşılan Zorluklar ve Çözümler:
@@ -24,3 +24,4 @@
 - Atilla Hoca'nın paylaşacağı Greenfoot tutorial'ı tamamlanacak.
 - Radar arama ekranı ve hedef tespiti Greenfoot üzerinde ilk prototip olarak kodlanacak.
 - Takım radar uzmanı belirlenerek matematiksel modelleme detaylandırılacak.
+

@@ -1,0 +1,24 @@
+﻿# Java & Greenfoot
+*.class
+*.ctxt
+*.bluej
+*.bak
+*~
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Virtual machines / IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
